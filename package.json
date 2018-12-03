@@ -1,0 +1,70 @@
+{
+  "_from": "git+https://github.com/sudipta26889/passport-local.git",
+  "_id": "passport-local@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/passport-local",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/sudipta26889/passport-local.git",
+    "rawSpec": "git+https://github.com/sudipta26889/passport-local.git",
+    "saveSpec": "git+https://github.com/sudipta26889/passport-local.git",
+    "fetchSpec": "https://github.com/sudipta26889/passport-local.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/sudipta26889/passport-local.git#42db52906beb96c2ef5d05f0e5a3f1b29737a7dd",
+  "_spec": "git+https://github.com/sudipta26889/passport-local.git",
+  "_where": "/Users/sudipta/Workspace/test",
+  "author": {
+    "name": "Jared Hanson",
+    "email": "jaredhanson@gmail.com",
+    "url": "http://www.jaredhanson.net/"
+  },
+  "bugs": {
+    "url": "http://github.com/jaredhanson/passport-local/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "passport-strategy": "1.x.x"
+  },
+  "deprecated": false,
+  "description": "Local username and password authentication strategy for Passport.",
+  "devDependencies": {
+    "chai": "1.x.x",
+    "chai-passport-strategy": "0.1.x",
+    "mocha": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "homepage": "https://github.com/jaredhanson/passport-local#readme",
+  "keywords": [
+    "passport",
+    "local",
+    "auth",
+    "authn",
+    "authentication",
+    "username",
+    "password"
+  ],
+  "license": "MIT",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT"
+  }],
+  "main": "./lib",
+  "name": "passport-local",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredhanson/passport-local.git"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --require test/bootstrap/node test/*.test.js"
+  },
+  "version": "1.0.0"
+}
