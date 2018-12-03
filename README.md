@@ -18,7 +18,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Install
 
-    $ npm install passport-local
+    $ npm install git+https://github.com/sudipta26889/passport-local.git
 
 ## Usage
 
@@ -64,10 +64,10 @@ For complete, working examples, refer to the multiple [examples](https://github.
 
 ## Credits
 
-  - [Jared Hanson](http://github.com/jaredhanson)
+  - [Sudipta Dhara](http://github.com/sudipta26889)
 
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2011-2014 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
+Copyright (c) 2011-2014 Sudipta Dhara <[https://www.linkedin.com/in/sudipta26889](https://www.linkedin.com/in/sudipta26889)>
